@@ -11,4 +11,11 @@ Right now consist of 5 projects, which is:
 
 All of the projects are being made using many programming language, such as : R,SQL,Python and Tableau
 
+=========================================================================================================================================================================
+Here are some Sneakpeek about the projects
+
+DATA EXPLORATION
+![Screenshot (501)](https://user-images.githubusercontent.com/72302364/162491265-64ad48f1-fde1-47e2-af95-3220998fd4f3.png)
+
+
 All of the dataset that i used can be downloaded on the dataset folder
